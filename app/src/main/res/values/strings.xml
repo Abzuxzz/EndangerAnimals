@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EndangerAnimals</string>
+    <string name="animal">Nama Hewan</string>
+    <string name="detail">Detail Animal</string>
+</resources>
