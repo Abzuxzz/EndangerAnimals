@@ -60,7 +60,7 @@ public class AnimalData {
                     "\n" +
                     "Di Kalimantan Barat atau Borneo, spesies rangkong ini dijadikan sebagai simbol alam ilahi. Mereka juga sering dimanifestasikan ke dalam seni tradisional dan berbagai ukiran.\n" +
                     "\n" +
-                    "Meskipun sekarang akan sulit untuk menemukan salah satu burung aneh ini, tetapi kamu bisa mendengar suara jeritan aneh mereka. Beberapa orang mengatakan suaranya seperti tawa nyaring yang terdengar dari jarak dua kilometer.",
+                    "Meskipun sekarang mungkin akan sulit untuk menemukan salah satu burung aneh ini, tetapi kamu bisa mendengar suara jeritan aneh mereka. Beberapa orang mengatakan suaranya seperti tawa nyaring yang terdengar dari jarak dua kilometer.",
     };
 
     private static int[] image = {
